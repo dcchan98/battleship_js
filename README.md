@@ -1,6 +1,6 @@
 # Battleship Game
 
-![Battleship Game Screenshot](link-to-image)
+![Battleship Game Screenshot](img.png)
 
 This is a simple 10x10 grid battleship game implemented using HTML, CSS, and JavaScript. The game features ships of varying sizes (5, 4, 3, and 3) placed randomly on the grid. Players can click on cells to attack and attempt to sink all the ships. The number of turns taken is displayed on the page.
 
